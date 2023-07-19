@@ -42,6 +42,7 @@ inventoryRoute.post("/",async(req,res)=>{
 })
 
 
+
 module.exports={
     inventoryRoute
 }
